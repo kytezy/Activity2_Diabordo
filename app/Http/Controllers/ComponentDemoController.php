@@ -20,6 +20,6 @@ class ComponentDemoController extends Controller
             "sum" => $math->add(10, 20)
         ];
     }
-
+    
         
 }
